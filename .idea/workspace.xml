@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b5ee41-663d-43f2-a80b-6b21110f1489" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flashcards_db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/card.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flashcards.py" beforeDir="false" afterPath="$PROJECT_DIR$/flashcards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/card.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +59,25 @@
       <option name="presentableId" value="Default" />
       <updated>1578526097717</updated>
     </task>
+    <task id="LOCAL-00001" summary="update thru pycharm">
+      <created>1578607399183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578607399183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update thru pycharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="update thru pycharm" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1578607398214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578607398214" />
     <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1578599251676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
